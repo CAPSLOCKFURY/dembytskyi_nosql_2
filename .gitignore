@@ -1,0 +1,5 @@
+.env
+arxiv-metadata-oai-snapshot.json
+data/
+embeddings/
+emdeddings/
